@@ -8,7 +8,7 @@ uuid:"199E6434-50F8-4AF3-AB25-8A444505098A"
 },
 {
 location:"79,149",
-onActionMethodID:"-1",
+onActionMethodID:"0ACF8110-142F-440B-9279-E09E8807142A",
 onDoubleClickMethodID:"-1",
 onRightClickMethodID:"-1",
 text:"button",
