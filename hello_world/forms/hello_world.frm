@@ -8,12 +8,12 @@ uuid:"199E6434-50F8-4AF3-AB25-8A444505098A"
 },
 {
 location:"79,149",
-onActionMethodID:"-1",
+onActionMethodID:"9CA0C242-2540-4848-B30D-056DE3F415B1",
 onDoubleClickMethodID:"-1",
 onRightClickMethodID:"-1",
 text:"button",
 typeid:7,
-uuid:"EAAA7EAA-AC2D-4893-8C40-D85855B08448"
+uuid:"5AE22A97-7FC2-4B24-B51A-700A833B3F5D"
 }
 ],
 name:"hello_world",
